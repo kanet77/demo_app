@@ -260,6 +260,6 @@ vendor
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
   
-  @kanet77
-  or 
-  [kanet77](https://github.com/kanet77)
+@kanet77
+or 
+[kanet77](https://github.com/kanet77)
